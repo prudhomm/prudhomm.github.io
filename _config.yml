@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Christophe Prud'homme"
   avatar           : "cp-id.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I am a Professor in Applied Mathematics at the University of Strasbourg in France. I’m passionate about mathematics and their endless applications in industry, sciences in particular health and environmental sciences."
   location         : "Strasbourg"
   employer         : "University of Strasbourg"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Christophe+Prud'homme"
   googlescholar    : "https://scholar.google.com/citations?hl=fr&user=_Tc7XQoAAAAJ&view_op=list_works&sortby=pubdate"
   email            : "christophe.prudhomme@cemosis.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
