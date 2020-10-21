@@ -18,7 +18,10 @@ Education
 
 Work experience
 ======
-* 2012-2020: Professor at University of Strasbourg, Strasbourg, France
+* 2012-: Director of [Cemosis](https://cemosis.fr) (Center for Modeling and Simulation in Strasbourg)  
+* 2012-: Professor at University of Strasbourg, Strasbourg, France
+* 2020-: Board member at [EU-Maths-IN](https://www.eu-maths-in.eu/): the European Network of Networks for Mathematics in Industry
+* 2011-: Board member at [AMIES](https://www.agence-maths-entreprises.fr/): Agency For Mathematics in Interaction with Entreprises and Society
 * 2006-2012: Professor at University of Joseph Fourier, Grenoble, France. 
   * Laboratoire Jean Kuntzmann
 * 2003-2006: Research scientist at EPFL, Switzerland
@@ -61,6 +64,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
