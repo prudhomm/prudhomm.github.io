@@ -9,13 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Mathematics, University Pierre and Marie Curie, Paris, 1993
-* M.S. in Applied Mathematics, University Pierre and Marie Curie, Paris, 2014
-* Ph.D in Applied Mathematics, University Pierre and Marie Curie, Paris, 2000 
-* Tenure in Applied Mathematics, University Pierre and Marie Curie, Paris, 2005
-
 Work experience
 ======
 * 2012-: Director of [Cemosis](https://cemosis.fr) (Center for Modeling and Simulation in Strasbourg)  
@@ -29,9 +22,17 @@ Work experience
 * 2000-2003: Research scientist at MIT, USA
   * Professor: Anthony T. Patera
 
+Education
+======
+* B.S. in Mathematics, University Pierre and Marie Curie, Paris, 1993
+* M.S. in Applied Mathematics, University Pierre and Marie Curie, Paris, 2014
+* Ph.D in Applied Mathematics, University Pierre and Marie Curie, Paris, 2000 
+* Tenure in Applied Mathematics, University Pierre and Marie Curie, Paris, 2005
+
+
 Skills
 ======
-* Modeling Simulation Optimisation
+* Modeling Simulation Optimization
 * Data
 * High Performance Computing
 * Signal and image processing
@@ -52,11 +53,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-# Talks
-# ======
-#   <ul>{% for post in site.talks %}
-#     {% include archive-single-talk-cv.html %}
-#   {% endfor %}</ul>
+Talks
+======
+   <ul>{% for post in site.talks %}
+     {% include archive-single-talk-cv.html %}
+   {% endfor %}</ul>
   
 Teaching
 ======
