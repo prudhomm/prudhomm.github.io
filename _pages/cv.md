@@ -11,30 +11,37 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics, University Pierre and Marie Curie, Paris, 1993
+* M.S. in Applied Mathematics, University Pierre and Marie Curie, Paris, 2014
+* Ph.D in Applied Mathematics, University Pierre and Marie Curie, Paris, 2000 
+* Tenure in Applied Mathematics, University Pierre and Marie Curie, Paris, 2005
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2012-2020: Professor at University of Strasbourg, Strasbourg, France
+* 2006-2012: Professor at University of Joseph Fourier, Grenoble, France. 
+  * Laboratoire Jean Kuntzmann
+* 2003-2006: Research scientist at EPFL, Switzerland
+  * Professor: Alfio Quarteroni
+* 2000-2003: Research scientist at MIT, USA
+  * Professor: Anthony T. Patera
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Modeling Simulation Optimisation
+* Data
+* High Performance Computing
+* Signal and image processing
+* Programming
+  * C/C++
+  * Python
+  * various kinds of scripting languages
+  * Js/Html
+* Frameworks
+  * Tensorflow
+  * Keras
+  * Node.js
+  * Feelpp
 
 Publications
 ======
